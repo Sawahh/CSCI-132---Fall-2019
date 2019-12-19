@@ -1,0 +1,2 @@
+This driver runs to allow the user to create and edit employee profiles and store them in a HashMap.
+The code features inheritance between the classes, creating variations on the generic Employee class. 
