@@ -1,0 +1,2 @@
+This program uses linked lists to take three numbers imported from a file to create a numbered group,
+and with two pointers with different jump values, fairly select 'candidates'.
